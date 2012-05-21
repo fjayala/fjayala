@@ -9,6 +9,8 @@ public class clase2 {
 System.out.println("Soy la clase 2");
 	
 System.out.println("método2_clase2");	
+	
+System.out.println("método2_rama_master_clase2");	
 	}
 
 }
